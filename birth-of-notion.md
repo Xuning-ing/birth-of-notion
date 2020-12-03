@@ -1,14 +1,6 @@
 # Birth of Notion
 
-All innovations stand on the shoulders of their forebears. 
-
-abc
-
-
-
-
-
-Historians look much further back in time to discover the antecedents of trends or ideas and the true mothers of invention. We now understand that the Chinese developed movable type in 1041, long before Johannes Gutenberg; that the shipbuilding skills and navigational insights of Indians, Filipinos, Javanese, and Arabs were essential to Europe’s Age of Discovery; and that South America’s Quechua Indians vulcanized rubber two centuries prior to Charles Goodyear. Author Dick Teresi chronicles these and other developments in Lost Discoveries: The Ancient Roots of Modern Science – From the Babylonians to the Maya.
+All innovations stand on the shoulders of their forebears. Historians look much further back in time to discover the antecedents of trends or ideas and the true mothers of invention. We now understand that the Chinese developed movable type in 1041, long before Johannes Gutenberg; that the shipbuilding skills and navigational insights of Indians, Filipinos, Javanese, and Arabs were essential to Europe’s Age of Discovery; and that South America’s Quechua Indians vulcanized rubber two centuries prior to Charles Goodyear. Author Dick Teresi chronicles these and other developments in Lost Discoveries: The Ancient Roots of Modern Science – From the Babylonians to the Maya.
 
 There’s little question that many centers of invention, adaption, cross-fertilization, and preservation have existed over the age. Although the examples that follow are hardly comprehensive, they are a few noteworthy stopovers on the road to innovations.
 
